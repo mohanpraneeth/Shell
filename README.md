@@ -1,2 +1,2 @@
 # Shell
-Schell Scripts for docsumentation and practise
+Schell Scripts for docsumentation and practise.
