@@ -46,5 +46,3 @@ else
 fi
 
 cat $TMPFILE
-
-#will start in next coming days
