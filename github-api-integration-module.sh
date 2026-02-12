@@ -47,4 +47,4 @@ fi
 
 cat $TMPFILE
 
-#will start in next days
+#will start in next coming days
